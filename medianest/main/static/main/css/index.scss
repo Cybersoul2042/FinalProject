@@ -1,0 +1,23 @@
+html,
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(49, 49, 49);
+    .slider{
+        width: 50px;
+        height: 100%;
+        background-color: rgb(43, 43, 43);
+    }
+}
+@media (min-width: 768px) {
+    
+}
+@media (min-width: 1200px) {
+    
+}
